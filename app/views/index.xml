@@ -1,0 +1,19 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<!-- Shows what a Label looks like on Android and iOS -->
+		<Label top='20dp'>Label Here:</Label>
+		<Label class="someLabel"/>
+		
+		<!-- Shows what a TextArea looks like on Android and iOS -->
+		<Label top='20dp'>TextArea Here:</Label>
+		<TextArea class="someTextArea"/>
+		
+		<!-- This will display only on Android-->
+		<Label top='20dp' platform="android">Label Here:</Label> 
+		<Label class="someLabel" platform="android"/> 
+		
+		<!-- This will display only on iOS -->
+		<Label top='20dp' platform="ios">TextArea Here:</Label>    
+		<TextArea class="someTextArea" platform="ios"/> 
+	</Window>
+</Alloy>

@@ -1,0 +1,37 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}, 
+
+"TextArea": {
+	color: "#000"
+},
+
+".someLabel": {
+	width: "90%",
+	height: "17%",
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	autoLink: Ti.UI.AUTOLINK_URLS,
+	//borderWidth: "2dp",
+	//borderColor: "red",
+	font: { fontSize: '20 dp'},
+	text: 'Photo Courtesy: infoGuide Apps - best apps ever!\nhttp://infoguideapps.com',
+},
+
+".someTextArea": {
+	width: "90%",
+	height: "17%",
+	//borderWidth: "2dp",
+	//borderColor: "blue",
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	autoLink: Ti.UI.AUTOLINK_URLS,
+	editable: false,
+	font: { fontSize: '20 dp'},
+	value: 'Photo Courtesy: infoGuide Apps - best apps ever!\nhttp://infoguideapps.com',
+}
+
+
