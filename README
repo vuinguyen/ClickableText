@@ -1,9 +1,23 @@
-Welcome to your Appcelerator Titanium Mobile Project
+This is a simple, open source project that demonstrates how to 
+display clickable URLs on Android and iOS, in Titanium.
+
+Feel free to use it, fix any bugs or expand its functionality.
+There is no warranty or guarantees of any kind attached to this code.
+
+You can read more about this project here:
+http://sunfishempire.wordpress.com/2014/05/06/displaying-clickable-text-across-platforms-in-titanium/
+
+All my best,
+Vui, @sunfishgurl
+
+
+
+Boilerplate legalise - BEGIN
+-----------------------------------------------------------------------
+This is an Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
 make your first mobile project using Titanium.
-
-
 
 ----------------------------------
 Stuff our legal folk make us say:
@@ -15,4 +29,6 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+------------------------------------------------------------------------
+Boilerplate legalise - END
 
